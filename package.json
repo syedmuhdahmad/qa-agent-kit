@@ -27,7 +27,7 @@
     "check:security-audit-skill": "node scripts/ci/security-audit-skill.mjs"
   },
   "devDependencies": {
-    "@playwright/cli": "^0.1.22",
+    "@playwright/cli": "^0.1.23",
     "@playwright/test": "^1.64.1",
     "@testing-library/jest-dom": "^7.0.1",
     "@testing-library/react": "^16.3.3",
